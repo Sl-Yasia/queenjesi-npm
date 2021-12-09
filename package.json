@@ -1,6 +1,6 @@
 {
   "name": "queenjesi-npm",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "NPM Package for Queen-Jesi",
   "main": "src/stack.js",
   "directories": {
