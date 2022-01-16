@@ -1,6 +1,6 @@
 {
   "name": "queenjesi-npm",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "NPM Package for Queen-Jesi",
   "main": "src/stack.js",
   "directories": {
@@ -16,7 +16,7 @@
   "author": "Sl-Yasia",
   "license": "GNU",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^3.4.1",
     "network-speed": "2.1.1",
     "@octokit/core": "3.5.1",
     "wa-sticker-formatter": "3.6.0",
