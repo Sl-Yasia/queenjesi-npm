@@ -4,6 +4,7 @@ exports.startqueenjesi = require("../lib/data/st");
 exports.qr = require("../lib/data/qr_phone");
 exports.anime = require("../lib/data/animeai");
 exports.shot = require("../lib/data/sc");
+exports.jesi = require("../lib/data/jesi");
 exports.face = require("../lib/data/faceai");
 exports.mood = require("../lib/data/moodai");
 exports.tti = require("../lib/data/ttiai");
